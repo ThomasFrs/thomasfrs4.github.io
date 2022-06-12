@@ -17,5 +17,5 @@ It doesn't feature a working GUI at the moment.
 
 ### Images
 
-![ittr_00](/media/ittr_thumbnail.png)
-![ittr_01](/media/ittr_01.png)
+![ittr_00](/_posts/media/ittr_thumbnail.png)
+![ittr_01](/_posts/media/ittr_01.png)

@@ -15,5 +15,5 @@ I later published it on Itch.io.
 
 ### Images
 
-![ha_00](/media/ha_thumbnail.png)
-![ha_01](/media/ha_01.png)
+![ha_00](/_posts/media/ha_thumbnail.png)
+![ha_01](/_posts/media/ha_01.png)

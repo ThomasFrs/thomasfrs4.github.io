@@ -14,5 +14,5 @@ I then published it on the Play Store and it has over 1000 downloads.
 
 ### Images
 
-![rw_00](/media/rw_thumbnail.png)
-![rw_01](/media/rw_01.png)
+![rw_00](/_posts/media/rw_thumbnail.png)
+![rw_01](/_posts/media/rw_01.png)

@@ -16,5 +16,5 @@ This bot is available on top.gg.
 
 ### Images
 
-![utb_00](/media/utb_thumbnail.png)
-![utb_01](/media/utb_01.png)
+![utb_00](/_posts/media/utb_thumbnail.png)
+![utb_01](/_posts/media/utb_01.png)

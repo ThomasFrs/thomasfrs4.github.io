@@ -16,5 +16,5 @@ I have simplified three of the most common calculations made on the Steam Market
 
 ### Images
 
-![smc_00](/media/smc_thumbnail.png)
-![smc_01](/media/smc_01.png)
+![smc_00](/_posts/media/smc_thumbnail.png)
+![smc_01](/_posts/media/smc_01.png)

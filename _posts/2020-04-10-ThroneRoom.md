@@ -17,5 +17,5 @@ and I have continuously seeked to improve it.
 
 ### Images
 
-![tr_00](/media/tr_thumbnail.png)
-![tr_01](/media/tr_01.png)
+![tr_00](/_posts/media/tr_thumbnail.png)
+![tr_01](/_posts/media/tr_01.png)

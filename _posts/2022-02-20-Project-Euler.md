@@ -15,5 +15,5 @@ my computing and mathematical skills.
 
 ### Images
 
-![pe_00](/media/pe_thumbnail.png)
-![pe_01](/media/pe_01.png)
+![pe_00](/_posts/media/pe_thumbnail.png)
+![pe_01](/_posts/media/pe_01.png)
